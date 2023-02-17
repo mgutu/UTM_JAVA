@@ -1,0 +1,28 @@
+CAPITOLUL 2
+Moştenirea (Inheritance)
+
+Sarcina spre realizare:
+Scrieți un cod care ar conține două clase legate prin moștenire acestea să fie funcționale și să satisfacă următoarele cerințe:
+ Clasa de bază să conțină 3 constructori și 2 metode
+ Clasa dirivată să conțină 2 constructori și 3 metode
+ Constructorii și metodele să fie apelați cu cuvintele cheie this și super
+ Creați următoarele obiecte în metoda main():
+a) Obiectul clase de bază folosind constructorul clasei de bază;
+b) Obiectul clase derivate folosind constructorul clasei de bază;
+c) Obiectul clase de derivate folosind constructorul clasei derivate;
+d) Obiectul clase de bază folosind constructorul clasei derivate;
+ Metodele declarate să fie apelate utilizând toate obiectele existente;
+
+Pentru toate variantele extindeţi capacităţile clasei de bază dată folosind moştenirea:
+1.Time, astfel încât să se poată deduce timpul zilei: dimineaţă, seară e.t.c
+2.Time, astfel încât să se poată deduce in secunde, minute timpul curent.
+3.Time, astfel încât să se poată deduce timpul trecut de la o acţiune specificata.
+4.Date, astfel încât să se poată deduce anotimpurile anului: iarna ,vara e.t.c.
+5.Annotation, astfel încât să se poată deduce timpul in secunde de la ultima modificare a annotaţiei.
+6.Dictionary, astfel încât să se poată deduce data în zile a ultimei modificări a dicţionarului.
+7.File, astfel încât să se poată deduce timpul si data creării obiectului.
+8.File, astfel încât să se poată deduce mărimea obiectului după modificare.
+9.Stack, astfel încât să se poată deduce timpul in minute a ultimei sesiuni a lucrului cu stiva.
+10.Stack, astfel încât să se poată deduce data în zile a ultimei sesiuni a lucrului cu stiva.
+11.Annotation, astfel încât să se poată deduce data in zilele de la ultima modificare a annotaţiei.
+12.Annotation, astfel încât să se poată deduce timpul şi data modificării annotaţiei.
